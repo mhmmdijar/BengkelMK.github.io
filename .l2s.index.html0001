@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>BENKEL MK</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/edit.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body>
+  <nav class="blue darken-2" role="navigation">
+    <div class="nav-wrapper container">
+      <a id="logo-container" href="#" class="brand-logo">MK</a>
+      <ul class="right hide-on-med-and-down">		  
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="kami.html">KAMI</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="sidenav">
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="kami.html">KAMI</a></li>
+		<li><a href="about.html">ABOUT</a></li>     
+      </ul>
+      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    </div>
+    </div>
+  </div>
+		</body>	
+    
+    
+  </nav>
+
+  <div id="index-banner" class="parallax-container">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <br><br>
+        <h1 class="header center teal-text text-lighten-2">BENKEL MK</h1>
+        <div class="row center">
+          <h5 class="header col s12 light"> BEKERJA KERAS UNTUK UANG YG HALAL</h5>
+        </div>
+        <div class="row center">
+          <a href="ContactForm_v14/ContactForm_v14/index.html" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">CHAT MEKANIK</a>
+        </div>
+        <br><br>
+
+      </div>
+    </div>
+    <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
+  </div>
+
+
+  <div class="container">
+    <div class="section">
+
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">watch_later</i></h2>
+            <h5 class="center">24 JAM</h5>
+
+            <p class="light">  </p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">security</i></h2>
+            <h5 class="center">AMAN</h5>
+
+            <p class="light"> </p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">build</i></h2>
+            <h5 class="center">SEPTI</h5>
+
+            
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+          <h5 class="header col s12 light"></h5>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+  </div>
+
+  <div class="container">
+    <div class="section">
+
+      <div class="row">
+        <div class="col s12 center">
+          <h3><i class="mdi-content-send brown-text"></i></h3>
+          <h3>ALAMAT</h3>
+          <p class="left-align light center">jalan kampung sawah mede rt 1, rw 6 JAKARTA BARAT <br> kami juga siap mendatangi klien kami dengan waktu semaksimal mungkin.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+          <h5 class="header col s12 light"></h5>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="benkel.jpg" alt="Unsplashed background img 3"></div>
+  </div>
+
+          
+          <footer class="page-footer teal">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">TERIMAKASI TELAH MEMBACANYA!!!</h5>
+          <p class="grey-text text-lighten-4">Terimakasih telah membacanya. di web ini saya bukan hanya sekadar mekanik saya juga menyediakan seperpat konci konci. anda bisa membelinya di fiture about lalu anda baca lalu di situ ada link anda klik untuk menuju ke sperpat saya</p>
+
+
+        </div>
+        <footer class="page-footer teal">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+			<h5 class="white-text">TUTORIAL</h5>
+            <p class="grey-text text-lighten-4">Belum mengerti dengan sistem web ini? mungkin ada yg bertanya | bagaimana cara memulainya. caranya klien harus mengklik tombol chat mekanik fiturenya ada di dekat navbar dan klien di tujukan ke group whatsapp.</p>
+          </div>
+           </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container center">
+      MEKANIK <a class="brown-text text-lighten-3 " href="">MASS EKO</a>
+      </div>
+        </footer>
+
+          
+          
+
+      
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>
